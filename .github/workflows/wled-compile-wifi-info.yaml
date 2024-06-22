@@ -1,4 +1,4 @@
-name: WLED compile
+name: WLED compile with wifi info
 
 on:
     workflow_dispatch:
